@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import '../App.css';
 import axios from 'axios';
-import { Link } from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import BookCard from './BookCard';
 
 class ShowBookList extends Component {
@@ -20,7 +20,7 @@ class ShowBookList extends Component {
                     books: res.data
                 })
             })
-            .catch(err =>{
+            .catch(err => {
                 console.log('Error from ShowBookList');
             })
     };
@@ -31,11 +31,11 @@ class ShowBookList extends Component {
         console.log("PrintBook: " + books);
         let bookList;
 
-        if(!books) {
+        if (!books) {
             bookList = "there is no book record!";
         } else {
             bookList = books.map((book, k) =>
-                <BookCard book={book} key={k} />
+                <BookCard book={book} key={k}/>
             );
         }
 
@@ -43,8 +43,7 @@ class ShowBookList extends Component {
             <div className="ShowBookList">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-12">
-                            <br />
+                        <div className="col-md-12 my-4">
                             <h2 className="display-4 text-center">Books List</h2>
                         </div>
 
@@ -52,14 +51,11 @@ class ShowBookList extends Component {
                             <Link to="/create-book" className="btn btn-outline-warning float-right">
                                 + Add New Book
                             </Link>
-                            <br />
-                            <br />
-                            <hr />
                         </div>
 
                     </div>
 
-                    <div className="list">
+                    <div className="list mt-5">
                         {bookList}
                     </div>
                 </div>
