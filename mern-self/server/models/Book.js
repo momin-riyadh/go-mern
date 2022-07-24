@@ -19,7 +19,7 @@ const BookSchema = new mongoose.Schema({
 
     publisher: {
         type: String,
-    }
+    },
 
     updated_date: {
         type: Date,
