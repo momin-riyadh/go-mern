@@ -24,3 +24,19 @@ T
 $mern-complete-tutorial/server/app.js,f\d\fd16301166b32e7c1fa64457693e653cb1826d0e
 l
 <mern-complete-tutorial/my-app/src/components/ShowBookList.js,2\2\22b96d47095fa193425b1141f78bf809b54cbaaa
+T
+$mern-self/server/config/default.json,d\c\dcf73cce178ab71e65fe0b60028e4050696782ae
+M
+mern-self/server/config/db.js,c\a\ca03273471ec538def28b5943dbd5f8c594efc6c
+O
+mern-self/server/models/Book.js,2\d\2d479225e3dbbc1aeb94d5ee7b9ed6100cd0f4cb
+a
+1mern-self/client/src/components/UpdateBookInfo.js,2\4\247848a8c0cd947d829bd31b490679013815d50d
+R
+"mern-self/client/public/index.html,2\b\2bc085d543d624aa7cc6d326c2ca590b5fbb8efd
+M
+mern-self/server/package.json,8\e\8e5abbf30490e53747457c8f9a125f5dc77720c8
+X
+(mern-complete-tutorial/my-app/src/App.js,b\e\be963c0566bea10e9a11138e9b901a902c722833
+Z
+*mern-complete-tutorial/my-app/package.json,9\0\9045ebf1c4ae6f01bf6cedb0e3d50bbd2d3cd504
