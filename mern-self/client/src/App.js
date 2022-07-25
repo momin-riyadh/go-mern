@@ -8,13 +8,11 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
-          <Route exact path="/" component={Home}/>
-          <Route path="/about" component={About}/>
-          <Route path="/contact" component={Contact}/>
+          lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </div>
       </Router>
     );
   }
 }
 
-
+export default App;
