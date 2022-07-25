@@ -6,8 +6,6 @@ L
 my-nest-project/package.json,9\f\9f46955440ae899ee5a9e4ee77b371aa3d47fdf4
 Z
 *mern-complete-tutorial/server/package.json,3\2\3235402006d271ff9c33ab1404ce7d2e8c7a5f64
-Z
-*mern-complete-tutorial/my-app/package.json,9\0\9045ebf1c4ae6f01bf6cedb0e3d50bbd2d3cd504
 Y
 )mern-complete-tutorial/my-app/src/App.css,a\4\a46398bfe4984685defd62045f8ca0f49dd5da66
 [
@@ -18,8 +16,6 @@ Z
 *mern-complete-tutorial/my-app/src/index.js,7\0\70a3ad565a8c3c4e48efcd9635e9bdee848f0f07
 _
 /mern-complete-tutorial/my-app/public/index.html,b\7\b72828aec83afb2005b6fdf2b587792fb485572e
-X
-(mern-complete-tutorial/my-app/src/App.js,b\e\be963c0566bea10e9a11138e9b901a902c722833
 h
 8mern-complete-tutorial/my-app/src/components/BookCard.js,e\b\ebe1775d3cd93a35acc73703f64560e07a1b8628
 a
