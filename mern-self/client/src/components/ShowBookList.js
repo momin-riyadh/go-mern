@@ -35,10 +35,10 @@ class ShowBookList extends Component {
                     <BookCard key={book._id} book={book}/>
                 )
             })
-
         } else {
             bookList = <p>No books found</p>
         }
+
         return (
             <div className="ShowBookList">
                 <div className="container">

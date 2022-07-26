@@ -40,3 +40,5 @@ X
 (mern-complete-tutorial/my-app/src/App.js,b\e\be963c0566bea10e9a11138e9b901a902c722833
 Z
 *mern-complete-tutorial/my-app/package.json,9\0\9045ebf1c4ae6f01bf6cedb0e3d50bbd2d3cd504
+L
+mern-self/client/src/App.css,a\1\a18a50c6ec7ced3003b860a94e8be7cef128110d
