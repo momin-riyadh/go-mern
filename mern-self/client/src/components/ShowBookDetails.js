@@ -38,7 +38,7 @@ class ShowBookDetails extends Component {
     render() {
         const book = this.state.book;
         let BookItem = <div>
-            <table className={"table table-hover table-striped table-bordered"}>
+            <table className={"table table-hover table-striped table-bordered table-dark"}>
                 <thead>
                 <tr>
                     <th scope="row">1</th>
