@@ -52,8 +52,6 @@ class ShowBookList extends Component {
                             <Link to="/create-book" className="btn btn-outline-warning float-right">
                                 + Add New Book
                             </Link>
-                            <br/>
-                            <br/>
                             <hr/>
                         </div>
 

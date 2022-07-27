@@ -30,15 +30,15 @@ M
 mern-self/server/config/db.js,c\a\ca03273471ec538def28b5943dbd5f8c594efc6c
 O
 mern-self/server/models/Book.js,2\d\2d479225e3dbbc1aeb94d5ee7b9ed6100cd0f4cb
-a
-1mern-self/client/src/components/UpdateBookInfo.js,2\4\247848a8c0cd947d829bd31b490679013815d50d
 R
 "mern-self/client/public/index.html,2\b\2bc085d543d624aa7cc6d326c2ca590b5fbb8efd
-M
-mern-self/server/package.json,8\e\8e5abbf30490e53747457c8f9a125f5dc77720c8
-X
-(mern-complete-tutorial/my-app/src/App.js,b\e\be963c0566bea10e9a11138e9b901a902c722833
 Z
 *mern-complete-tutorial/my-app/package.json,9\0\9045ebf1c4ae6f01bf6cedb0e3d50bbd2d3cd504
 L
 mern-self/client/src/App.css,a\1\a18a50c6ec7ced3003b860a94e8be7cef128110d
+T
+$mern-self/server/routes/api/books.js,0\3\0308ceff4f88cb7c12b104fb20be224539abb7d6
+]
+-mern-self/client/src/components/CreateBook.js,c\d\cd1f0fc80904614d7d8f5b9fc5145f2fe0b74839
+j
+:mern-complete-tutorial/my-app/src/components/CreateBook.js,5\3\536812046865814419a92c0a4bd4b410db0b999f
