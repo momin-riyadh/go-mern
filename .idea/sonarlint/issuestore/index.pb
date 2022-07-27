@@ -32,8 +32,6 @@ O
 mern-self/server/models/Book.js,2\d\2d479225e3dbbc1aeb94d5ee7b9ed6100cd0f4cb
 R
 "mern-self/client/public/index.html,2\b\2bc085d543d624aa7cc6d326c2ca590b5fbb8efd
-Z
-*mern-complete-tutorial/my-app/package.json,9\0\9045ebf1c4ae6f01bf6cedb0e3d50bbd2d3cd504
 L
 mern-self/client/src/App.css,a\1\a18a50c6ec7ced3003b860a94e8be7cef128110d
 T
