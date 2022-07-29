@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
+import axios from "axios";
+import {Link} from "react-router-dom";
 import '../App.css';
-import axios from 'axios';
-import {Link} from 'react-router-dom';
-import BookCard from './BookCard';
+import BookCard from "./BookCard";
 
 class ShowBookList extends Component {
     constructor(props) {
@@ -12,50 +12,52 @@ class ShowBookList extends Component {
         };
     }
 
+
     componentDidMount() {
-        axios
-            .get('http://localhost:8082/api/books')
+        axios.get('http://localhost:5050/api/books')
             .then(res => {
                 this.setState({
                     books: res.data
-                })
+                });
             })
             .catch(err => {
-                console.log('Error from ShowBookList');
+                console.log("Error in ShowBookList!");
             })
-    };
+    }
 
 
     render() {
         const books = this.state.books;
-        console.log("PrintBook: " + books);
         let bookList;
-
-        if (!books) {
-            bookList = "there is no book record!";
+        if (books.length > 0) {
+            bookList = books.map(book => {
+                return (
+                    <BookCard key={book._id} book={book}/>
+                )
+            })
         } else {
-            bookList = books.map((book, k) =>
-                <BookCard book={book} key={k}/>
-            );
+            bookList = <p>No books found</p>
         }
 
         return (
             <div className="ShowBookList">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-12 my-4">
+                        <div className="col-md-12">
+                            <br/>
                             <h2 className="display-4 text-center">Books List</h2>
                         </div>
 
-                        <div className="col-md-12">
+                        <div className="col-md-11">
                             <Link to="/create-book" className="btn btn-outline-warning float-right">
                                 + Add New Book
                             </Link>
+                            <hr/>
                         </div>
 
                     </div>
 
-                    <div className="list mt-5">
+                    <div className="list">
                         {bookList}
                     </div>
                 </div>
