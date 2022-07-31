@@ -40,3 +40,13 @@ $mern-self/server/routes/api/books.js,0\3\0308ceff4f88cb7c12b104fb20be224539abb
 -mern-self/client/src/components/CreateBook.js,c\d\cd1f0fc80904614d7d8f5b9fc5145f2fe0b74839
 j
 :mern-complete-tutorial/my-app/src/components/CreateBook.js,5\3\536812046865814419a92c0a4bd4b410db0b999f
+P
+ cms/payload/collections/Press.js,7\1\71b1ab9bf75dc434d3b6f73ea42517e4d8d6b3cd
+M
+cms/payload/payload.config.js,6\4\6404587976274289765d4083c71ad3a9d5a64ec1
+P
+ cms/payload/collections/Posts.js,5\9\599a599c1bcffed27f1bcf8e440469dcfcbdb6fe
+n
+>mern-complete-tutorial/my-app/src/components/UpdateBookInfo.js,f\f\ff3b728f375565684781ef27fc076fc9fcda8269
+G
+mern-self/server/app.js,7\5\7511205e1d67a10703c83e4cbccaf4a570b7c903
