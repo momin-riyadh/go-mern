@@ -39,8 +39,6 @@ n
 >mern-complete-tutorial/my-app/src/components/UpdateBookInfo.js,f\f\ff3b728f375565684781ef27fc076fc9fcda8269
 l
 <mern-complete-tutorial/my-app/src/components/ShowBookList.js,2\2\22b96d47095fa193425b1141f78bf809b54cbaaa
-o
-?mern-complete-tutorial/my-app/src/components/ShowBookDetails.js,3\5\35e863c070176dbe2d6eec7c7addb2e7b49c8436
 Z
 *mern-complete-tutorial/server/config/db.js,5\e\5e32cba927a1285a32c778c805640fc4741a2a10
 a
@@ -51,3 +49,20 @@ E
 cms/payload/server.js,b\a\baea66982a606cf2accd0c4695145197fc6aa469
 L
 mern-self/client/src/App.css,a\1\a18a50c6ec7ced3003b860a94e8be7cef128110d
+K
+mern-self/client/src/App.js,f\8\f8420684de44b80ba1dc10274cce5af52ce0f2c8
+_
+/mern-self/client/src/components/ShowBookList.js,d\8\d836ed393d149f85cef2048afe74bbb546a3385c
+Z
+*mern-complete-tutorial/my-app/package.json,9\0\9045ebf1c4ae6f01bf6cedb0e3d50bbd2d3cd504
+M
+mern-self/client/package.json,d\8\d8115eb6ef69ead98c3b92e9f3a1a78a89cf44aa
+M
+mern-self/server/package.json,8\e\8e5abbf30490e53747457c8f9a125f5dc77720c8
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+A
+mern-jwt/index.js,c\b\cbf626ba7552d96bd74c1cb84f60fb9bf7852556
+b
+2mern-self/client/src/components/ShowBookDetails.js,c\d\cd496b24403c766f45b27aa84c941c5d74cb6aaf
