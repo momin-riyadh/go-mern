@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/explore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fileUpload/file-upload-with-multer-in-node" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/my-nest-project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/nest-blog-api" vcs="Git" />
   </component>

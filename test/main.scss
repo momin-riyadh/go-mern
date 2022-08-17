@@ -1,0 +1,11 @@
+.g-post-image{
+  position: relative;
+  .g-caption{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+
