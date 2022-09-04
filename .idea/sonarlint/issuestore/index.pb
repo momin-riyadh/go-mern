@@ -84,3 +84,13 @@ I
 explore/src/app.module.ts,e\1\e140791e768d6d461a60942e1d09942473d88236
 [
 +mern-self/client/src/components/BookCard.js,5\d\5d42c505177bd85c116151816c32b34fb490bee9
+e
+5fileUpload/file-upload-with-multer-in-node/index.html,1\b\1bd8c9a62a69fc54524a69b923d85a57371ed7ff
+g
+7fileUpload/file-upload-with-multer-in-node/package.json,d\7\d7c9c44ff56b878871a4594032e99c20858babd6
+d
+4fileUpload/file-upload-with-multer-in-node/README.md,e\4\e48a482bee1a5516dcd8259a0ab1b21dfdd0b4f0
+>
+test/main.scss,2\4\248c320c391acd0bed11f565377399eaa1bd7e65
+?
+test/index.html,d\c\dca005c26626832a14e80b4155e26695cbbf2254
